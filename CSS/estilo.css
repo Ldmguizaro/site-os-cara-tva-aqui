@@ -140,6 +140,10 @@ footer h3{
 }
 
 @media(max-width: 574px){
+    #home img{
+        width: 100px;
+        height: 100px;
+    }
     #membros{background-color: rgba(0, 0, 0, 0);;}
     #membros figure{
         width: auto;
