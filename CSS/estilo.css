@@ -48,7 +48,7 @@ main{
 #home p{
     margin: auto;
     text-align: center;
-    width: 50%;
+    width: 60%;
 }
 
 #home article{
@@ -60,7 +60,7 @@ main{
 
 #home h2{
     display: inline-block;
-    width: 50%;
+    width: 60%;
 }
 
 #home img{
@@ -82,7 +82,7 @@ main{
     line-height: 30px;
     text-align: justify;
     margin: auto;
-    width: 50%;
+    width: 60%;
 }
 
 #sobre h3{
@@ -105,7 +105,7 @@ main{
     padding: 20px;
     background-color: rgba(245, 253, 207, 0.37);
     text-align: center;
-    width: 300px;
+    width: 30%;
     height: 600px;
 }
 
